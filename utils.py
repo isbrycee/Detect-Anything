@@ -20,6 +20,7 @@ sam_checkpoint = "sam_vit_h_4b8939.pth"
 MODEL_TYPE = "vit_h"
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 CHECKPOINT_PATH = "SAM-BLIP2/sam_vit_h_4b8939.pth"
+CHECKPOINT_URL = 'SAM-BLIP2/sam_vit_h_4b8939.pth'
 
 def show_anns(anns):
     if len(anns) == 0:
