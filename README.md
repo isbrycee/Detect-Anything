@@ -8,6 +8,26 @@ We want capture more precise texonomy for detection and instance segmentation by
 Sparing no effort to for exploitation!!! 
 
 
-
 Coming soon...
 
+
+## :bookmark_tabs: TODO
+- [x] Saving COCO format
+- [ ] several threshold interface
+
+
+## :hammer_and_wrench: How to use
+
+
+```bash
+# Example: without chatgpt
+export CUDA_VISIBLE_DEVICES=0
+python pipeline_DA.py \
+  --data_dir
+  --out_dir
+```
+
+
+## :cupid: Acknowledgements
+- [Segment Anything](https://github.com/facebookresearch/segment-anything)
+- [Grounding DINO](https://github.com/IDEA-Research/GroundingDINO)
