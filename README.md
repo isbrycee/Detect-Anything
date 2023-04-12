@@ -1,8 +1,7 @@
 # Detect-Anything
 
-![](./assets/000000001353.jpg =100)![](./assets/000000002431.jpg =100)![](./assets/000000007281.jpg =100)
+![](./assets/000000001353.jpg)![](./assets/000000002431.jpg)
 
-% ![](./assets/000000005503.jpg =100x100)![](./assets/000000005060.jpg =100x100)![](./assets/000000001532.jpg =100x100)
 
 Detect-Anything(designed for practical application) is a intelligent **object detection annotation helper** who combines the capabilities of multiple foundation models including Segment Anything, BLIPv2, Flan-T5, GPT2, and even ChatBot and GPT4.
 
