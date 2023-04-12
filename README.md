@@ -7,7 +7,7 @@ We want capture more precise texonomy for detection and instance segmentation by
 
 Sparing no effort to for exploitation!!! 
 
-![](./assets/Detect_Anything_logo.png)
+![](./Detect_Anything_logo.jpg)
 
 Coming soon...
 
